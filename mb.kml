@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Impianto</name>
+    <Style id="icon-1899-0288D1-labelson-nodesc">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-labelson-nodesc">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-F4EB37-labelson">
+      <IconStyle>
+        <color>ff37ebf4</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>T1</name>
+      <description><![CDATA[42.647232 N  12.678682 E<br>Spoleto fg. 287, partt. 20 - 59]]></description>
+      <styleUrl>#icon-503-F4EB37-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          12.678682,42.647232,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>T2</name>
+      <description><![CDATA[42.654368 N 12.672658 E <br>Spoleto fg 277, part. 51]]></description>
+      <styleUrl>#icon-503-F4EB37-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          12.672658,42.654368,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>T3</name>
+      <description><![CDATA[42.658543 N 12.667219 E <br>Spoleto fg. 277, par. 21 - 92, foglio 267 particella 7]]></description>
+      <styleUrl>#icon-503-F4EB37-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          12.667219,42.658543,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>T4</name>
+      <description><![CDATA[42.661652 N 12.672642 E <br>Spoleto fg. 267, partt. 58, 63, 68, 69]]></description>
+      <styleUrl>#icon-503-F4EB37-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          12.672642,42.661652,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>T5</name>
+      <description><![CDATA[42.667386 N 12.679164 E <br>Spoleto fg. 268, partt. 5 - 6]]></description>
+      <styleUrl>#icon-503-F4EB37-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          12.679164,42.667386,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>T6</name>
+      <description><![CDATA[42.668586 N 12.685074 E <br>Spoleto fg. 268, par. 6 - Fg. 266, part. 203]]></description>
+      <styleUrl>#icon-503-F4EB37-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          12.685074,42.668586,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>T7</name>
+      <description><![CDATA[42.672297 N 12.692698 E <br>Spoleto fg. 255, part. 78, fg. 266, partt. 123, 124, 125]]></description>
+      <styleUrl>#icon-503-F4EB37-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          12.692698,42.672297,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>T8</name>
+      <description><![CDATA[42.674511 N 12.698461 E<br>Spoleto fg. 255, part. 78 - fg. 256, partt. 37 - 46 - 55]]></description>
+      <styleUrl>#icon-503-F4EB37-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          12.698461,42.674511,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Impianto di accumulo</name>
+      <description><![CDATA[42.607541 N 12.783399 E<br>Ferentillo Fg. 60, partt. 89 - 92]]></description>
+      <styleUrl>#icon-503-F4EB37-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          12.783399,42.607541,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stazione utente MT/AT</name>
+      <description><![CDATA[42.608195 N 12.784131 E<br>Ferentillo Fg 60, partt. 37 - 38 - 39 - 89]]></description>
+      <styleUrl>#icon-503-F4EB37-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          12.784131,42.608195,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stazione di Trasformazione 380/132 kV</name>
+      <description><![CDATA[42.609736 N 12.784637 E<br>Ferentillo Fg. 60,  partt 21-22-23-24-25-26-31- 32-33-34-34-36-37-39- 40-41-42-ACQUA096- STRADA29]]></description>
+      <styleUrl>#icon-503-F4EB37-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          12.784637,42.609736,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LIDAR NON DOCUMENTATO</name>
+      <styleUrl>#icon-1899-C2185B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.6881212,42.6646186,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LIDAR COLLE MEZZO</name>
+      <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.6893495,42.6707283,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
