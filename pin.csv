@@ -1,11 +1,14 @@
 latitude,longitude,name,description
-42.723004,12.648956,Torre 1,
-42.723837,12.649844,Torre 2,
-42.724624,12.650735,Torre 3,
-42.725417,12.651630,Torre 4,
-42.726206,12.652526,Torre 5,
-42.726999,12.653420,Torre 6,
-42.727788,12.654310,Torre 7,
-42.728575,12.655201,Torre 8,
-42.729368,12.656095,Torre 9,
-42.730154,12.656983,Torre 10
+42.647232,12.678682,T1,"Spoleto fg. 287, partt. 20 - 59"
+42.654368,12.672658,T2,"Spoleto fg 277, part. 51"
+42.658543,12.667219,T3,"Spoleto fg. 277, par. 21 - 92, foglio 267 particella 7"
+42.661652,12.672642,T4,"Spoleto fg. 267, partt. 58, 63, 68, 69"
+42.667386,12.679164,T5,"Spoleto fg. 268, partt. 5 - 6"
+42.668586,12.685074,T6,"Spoleto fg. 268, par. 6 - Fg. 266, part. 203"
+42.672297,12.692698,T7,"Spoleto fg. 255, part. 78, fg. 266, partt. 123, 124, 125"
+42.674511,12.698461,T8,"Spoleto fg. 255, part. 78 - fg. 256, partt. 37 - 46 - 55"
+42.607541,12.783399,Impianto di accumulo,"Ferentillo Fg. 60, partt. 89 - 92"
+42.608195,12.784131,Stazione utente MT/AT,"Ferentillo Fg 60, partt. 37 - 38 - 39 - 89"
+42.609736,12.784637,Stazione di Trasformazione 380/132 kV,"Ferentillo Fg. 60, partt. 21-22-23-24-25-26-31-32-33-34-34-36-37-39-40-41-42-ACQUA096-STRADA29"
+42.6646186,12.6881212,LIDAR NON DOCUMENTATO,
+42.6707283,12.6893495,LIDAR COLLE MEZZO
