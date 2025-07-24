@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Impianto</name>
+    <NetworkLink>
+      <name><![CDATA[FB *"Energia Montebibico"  - Fred Olsen R. Italy]]></name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1OGJJcQ0in0TB9-fv4T1Svp9y0vXLduc&lid=o0d722O1I3E]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
